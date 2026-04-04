@@ -1,1 +1,1 @@
-Desarrollador de plugins para Paper & Spigot con experiencia en Java y HTML. :)
+- Desarrollador de plugins para Paper & Spigot con experiencia en Java y HTML. :)
